@@ -1,0 +1,8 @@
+If that program to find the roots of a quadratic equation runs but gives the incorrect output ,the error is a logical error.
+correct way :(-b+sqrt(d))(2*a)
+
+complication : The compiler takes the perprocessor code and translates it into assembly language.
+             : This is the stage where syntax errors are caught.
+
+execution : Once we have the .exe file , the execution phase begins.
+          : This is the stage where runtime error/logical errors are caught.
